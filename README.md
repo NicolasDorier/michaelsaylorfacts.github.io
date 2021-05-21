@@ -2,7 +2,7 @@
 
 # Introduction
 
-If you don't know who Michael "Giga Chad" Saylor is, time to teach yourself some facts.
+If you don't know who Michael "Giga Chad" Saylor is, time to [teach yourself some facts](https://michaelsaylorfacts.com/).
 
 If you know who he is and you are here to share some facts, just add your facts in the `index.html` file and make a pull request!
 
